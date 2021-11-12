@@ -1,0 +1,2 @@
+# gost1
+code
